@@ -1,0 +1,28 @@
+{
+    "name": "topic-cloud",
+    "version": "0.1.0",
+    "authors": [
+        "Maksim Sakuta <maksim.sakuta@gmail.com>"
+    ],
+    "description": "Topic Cloud Challenge App Grunt dependencies",
+	"dependencies": {
+        "tag-cloud": "~1.0.0"
+    },
+    "devDependencies": {
+        "load-grunt-tasks": "~3.3.0",
+        "grunt-contrib-clean": "~0.6.0",
+        "grunt-wiredep": "~2.0.0",
+        "grunt-contrib-htmlmin": "~0.5.0",
+        "grunt-usemin": "~3.1.0",
+		"grunt-contrib-copy": "~0.8.0",
+        "grunt-contrib-concat": "~0.5.0",
+        "grunt-contrib-uglify": "~0.9.0",
+        "grunt-contrib-cssmin": "~0.14.0",
+		"grunt-contrib-watch": "~0.6.0",
+		"grunt-contrib-jasmine": "~0.9.0",
+        "grunt-bower-install-simple": "~1.1.0"		
+    },
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}

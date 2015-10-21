@@ -1,0 +1,13 @@
+{
+    "name": "topic-cloud",
+    "version": "1.0.0",
+    "authors": [
+        "Maksim Sakuta"
+    ],
+    "description": "topic-cloud JavaScript dependencies.",
+    "private": true,
+    "dependencies": {
+        "jquery": "1.9.1",
+		"jqcloud2": "~2.0.0"
+    }
+}
